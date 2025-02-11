@@ -9,17 +9,25 @@ The Student Management System is a C-based console application designed to effic
 
 1.Add new students with essential details (ID, name, age, grade, etc.)
 all student records
+
 2.Search for students by ID or name
+
 3.Update student information
+
 4.Delete student records
 
 **Choose an option from the menu:**
 
 1: Add a student
+
 2: View all students
+
 3: Search for a student
+
 4: Update student information
+
 5: Delete a student record
+
 6: Exit
 
 
