@@ -1,22 +1,6 @@
 # Student-Management-System
 Student Management System
 
-Table of Contents
-
-Introduction
-
-Features
-
-Installation
-
-Usage
-
-Technologies Used
-
-Contributing
-
-License
-
 Introduction
 
 The Student Management System is a C-based console application designed to efficiently manage student records. It allows users to add, view, update, and delete student details in a structured format, making it ideal for educational institutions.
@@ -95,6 +79,3 @@ Push to the branch (git push origin feature-branch)
 
 Open a Pull Request
 
-License
-
-This project is open-source and available under the MIT License.
